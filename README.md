@@ -1,0 +1,1 @@
+Linux version 3.8.0-26-generic (buildd@lamiak) (gcc version 4.7.3 (Ubuntu/Linaro 4.7.3-1ubuntu1) ) #38-Ubuntu SMP Mon
