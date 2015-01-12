@@ -1,0 +1,1 @@
+SELECT * FROM book WHERE authors='Anthony Boucher';  

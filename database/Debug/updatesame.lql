@@ -1,0 +1,3 @@
+SELECT * from book WHERE id< 200020;
+UPDATE book SET id=199999 WHERE id < 200020;
+SELECT * from book WHERE id <200020;
